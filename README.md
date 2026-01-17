@@ -1,4 +1,4 @@
-# cybersecurity-writeups
+
 # Cybersecurity Write-ups
 
 This repository contains my learning notes and hands-on write-ups
